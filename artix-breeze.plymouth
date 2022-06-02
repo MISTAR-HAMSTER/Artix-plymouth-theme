@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Artix Breeze
+Description=Artix Linux theme insired by KDE Breeze
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/artix-breeze
+ScriptFile=/usr/share/plymouth/themes/artix-breeze/script
